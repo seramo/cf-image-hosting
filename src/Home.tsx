@@ -7,7 +7,7 @@ export function Home() {
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
-        <title>Telegraph Image Hosting</title>
+        <title>Uplod98 Image Hosting</title>
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css"
@@ -19,7 +19,7 @@ export function Home() {
       <body>
         <div className="full-window" ondragover="event.preventDefault()">
           <div className="container card">
-            <h3 className="text-center">Telegraph Image Hosting</h3>
+            <h3 className="text-center">Uplod98 Image Hosting</h3>
             <p className="text-center text-muted">
               Free & Unlimited Image Hosting
             </p>
