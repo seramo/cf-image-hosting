@@ -42,7 +42,7 @@ npm run deploy
 ```bash
 $ git clone https://github.com/ifyour/cf-image-hosting.git
 $ cd cf-image-hosting
-$ npm run install && npm run deploy
+$ npm install && npm run deploy
 ```
 
 </details>
