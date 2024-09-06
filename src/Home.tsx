@@ -48,13 +48,6 @@ export function Home() {
               className="text-center"
               style="margin-top: 10px"
             ></div>
-            <a
-              className="text-center text-muted"
-              href="https://github.com/ifyour/cf-image-hosting"
-              target="_blank"
-            >
-              GitHub
-            </a>
           </div>
         </div>
 
